@@ -77,6 +77,27 @@ textarea {
 button {
     margin-left: .5em;
 }
+.buttonapp{
+    position: relative;
+  top: 80px;
+  
+  margin: 0 auto;
+    width: 400px;
+    padding: 1em;
+    border-radius: 1em;
+  background-color:#FE935B ;
+  text-decoration: none;
+  color:#2e2e2e;
+  width:100%;
+  text-align:center;
+}
+.confira{
+  padding:115px;
+  text-decoration: none;
+  color:#2e2e2e;
+  text-align:center;
+  
+}
 
 
 
